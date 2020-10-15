@@ -1,0 +1,18 @@
+Oct 15 2020 02:33:47
+{"Number":2,"Message":"touch(): Utime failed: Operation not permitted","File":"\/home\/cabox\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":500}
+
+Oct 15 2020 02:33:47
+{"Number":2,"Message":"chmod(): Operation not permitted","File":"\/home\/cabox\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":503}
+
+Oct 15 2020 02:33:47
+{"Number":2,"Message":"touch(): Utime failed: Operation not permitted","File":"\/home\/cabox\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":500}
+
+Oct 15 2020 02:33:47
+{"Number":2,"Message":"chmod(): Operation not permitted","File":"\/home\/cabox\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":503}
+
+Oct 15 2020 02:33:48
+{"Number":2,"Message":"touch(): Utime failed: Operation not permitted","File":"\/home\/cabox\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":500}
+
+Oct 15 2020 02:33:48
+{"Number":2,"Message":"chmod(): Operation not permitted","File":"\/home\/cabox\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":503}
+
